@@ -1,0 +1,4 @@
+>bad01 contains N; must be dropped and logged
+GATTANGTAATC
+>bad02 length 11; must be rejected for Hamming comparison
+GATTACGTAAT

@@ -1,0 +1,10 @@
+# Tested on Python 3.13.11 (Windows). Full transitive pins: requirements-lock.txt
+# Course algorithms are hand-written; networkx and sympy are test-only oracles.
+biopython==1.88
+numpy==2.5.4
+pandas==3.1.0
+matplotlib==3.11.2
+streamlit==1.66.1
+networkx==3.7
+sympy==1.14.0
+pytest==9.2.0

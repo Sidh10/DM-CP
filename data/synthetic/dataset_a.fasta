@@ -1,0 +1,20 @@
+>syn01 reference; RC-palindrome
+GATTACGTAATC
+>syn02 chain step 1; square corner
+GCTTACGTAATC
+>syn03 chain step 2
+GCTTGCGTAATC
+>syn04 chain step 3
+GCTTGCGTTATC
+>syn05 square corner
+GATTACGTAAAC
+>syn06 square corner
+GCTTACGTAAAC
+>syn07 shares position 5 with syn03 but a different base
+GATTCCATAATC
+>syn08 reverse complement of syn03
+GATTACGCAAGC
+>syn09 outlier
+CAGCAAGTAGTA
+>syn10 identical to syn03
+GCTTGCGTAATC
